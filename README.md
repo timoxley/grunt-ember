@@ -11,5 +11,7 @@
     }
 ```
 
-#### Credit
+#### Credit & Thanks
 Extracted verbatim from Thomas Boyt's Charcoal tool. http://github.com/thomasboyt/Charcoal
+
+Thomas you are welcome to take control of this module.
