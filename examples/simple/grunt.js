@@ -4,7 +4,7 @@ module.exports = function(grunt) {
     ember: {
       all: {
         src: 'templates/*.handlebars',
-        dest: 'templates.js'
+        dest: 'output.js'
       }
     }
   });
