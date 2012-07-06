@@ -1,0 +1,24 @@
+{
+  "name": "grunt-ember",
+  "version": "0.0.0",
+  "description": "Compile Ember templates",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "MIT",
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:timoxley/grunt-ember.git"
+  },
+  "keywords": [
+    "ember",
+    "build",
+    "grunt",
+    "templates"
+  ],
+  "author": "Tim Oxley"
+}
