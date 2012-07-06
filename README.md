@@ -3,12 +3,21 @@
 ###Usage
 
 ```js
+module.exports = function(grunt) {
+
+  grunt.initConfig({
     ember: {
-      app: {
-        src: ["./app/ember/templates/*.handlebars"],
-        dest: 'public/assets/javascripts/templates.js'
+      all: {
+        src: 'templates/*.handlebars',
+        dest: 'output.js'
       }
     }
+  });
+
+  grunt.loadNpmTasks('grunt-handlebars');
+  grunt.registerTask('default', 'ember');
+
+};
 ```
 
 #### Credit & Thanks
