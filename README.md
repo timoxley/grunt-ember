@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/timoxley/grunt-ember.png)](http://travis-ci.org/timoxley/grunt-ember)
 #Collate Ember templates into a single file
 
 ###Usage
