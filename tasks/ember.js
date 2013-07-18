@@ -27,4 +27,4 @@ module.exports = function(grunt) {
 
     file.write(this.data.dest, output);
   });
-}
+};

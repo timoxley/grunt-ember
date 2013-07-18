@@ -14,6 +14,10 @@
     "type": "git",
     "url": "git@github.com:timoxley/grunt-ember.git"
   },
+  "devDependencies": {
+    "grunt-contrib-nodeunit": "~0.1.2",
+    "grunt-contrib-clean": "~0.4.0"
+  },
   "keywords": [
     "ember",
     "build",
