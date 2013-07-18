@@ -1,6 +1,6 @@
 #Collate Ember templates into a single file
 
-[![https://travis-ci.org/timoxley/grunt-ember.png](https://travis-ci.org/timoxley/grunt-ember.png)
+![https://travis-ci.org/timoxley/grunt-ember.png](https://travis-ci.org/timoxley/grunt-ember.png)
 
 ###Usage
 
