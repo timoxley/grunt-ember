@@ -1,5 +1,7 @@
 #Collate Ember templates into a single file
 
+[![https://travis-ci.org/timoxley/grunt-ember.png](https://travis-ci.org/timoxley/grunt-ember.png)
+
 ###Usage
 
 ```js
@@ -28,6 +30,4 @@ npm install --save grunt-ember
 ```
 
 #### Credit & Thanks
-Extracted verbatim from Thomas Boyt's Charcoal tool. http://github.com/thomasboyt/Charcoal
-
-Thomas you are welcome to take control of this module.
+Extracted from Thomas Boyt's Charcoal tool. http://github.com/thomasboyt/Charcoal
