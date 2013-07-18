@@ -9,7 +9,7 @@ module.exports = function(grunt) {
   var file = grunt.file;
 
   grunt.registerMultiTask("ember", "Collate Ember templates into a single file.", function() {
-    var template_files = file.expandFiles(this.data.src);
+    var template_files = file.expand(this.data.src);
 
     var output = "";
     template_files.forEach(function(template_file) {
@@ -27,4 +27,4 @@ module.exports = function(grunt) {
 
     file.write(this.data.dest, output);
   });
-}
+};
