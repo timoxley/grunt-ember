@@ -8,12 +8,14 @@
   },
   "license": "MIT",
   "directories": {
+    "example": "examples",
     "test": "test"
   },
   "repository": {
     "type": "git",
     "url": "git@github.com:timoxley/grunt-ember.git"
   },
+  "dependencies": {},
   "devDependencies": {
     "grunt-contrib-nodeunit": "~0.1.2",
     "grunt-contrib-clean": "~0.4.0",
@@ -25,5 +27,8 @@
     "grunt",
     "templates"
   ],
-  "author": "Tim Oxley"
+  "author": "Tim Oxley",
+  "bugs": {
+    "url": "https://github.com/timoxley/grunt-ember/issues"
+  }
 }
